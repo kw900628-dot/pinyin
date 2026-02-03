@@ -1,3 +1,2 @@
 streamlit
-g2pM
-numpy
+pypinyin
